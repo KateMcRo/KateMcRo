@@ -1,5 +1,3 @@
-[![Kate's Github Banner](./assets/banner.png)](https://katemcro.github.io/reactPortfolio/)
-
 ### Howdy 👋🏻
 
 I'm Kate, and I'm a creative person with a keen affinity for organization. I embarked on a coding journey two decades ago 👵🏻 as a hobby and and it has transformed into a profound and unwavering fascination. Today, I'm driven by the prospect of a fulfilling career transition.
