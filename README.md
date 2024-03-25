@@ -1,10 +1,6 @@
 ### Howdy 👋🏻
 
-I'm Kate, and I'm a creative person with a keen affinity for organization. I embarked on a coding journey two decades ago 👵🏻 as a hobby and it has transformed into a profound and unwavering fascination. Today, I'm driven by the prospect of a fulfilling career transition.
-
-With an eye for design and a background in accounting and marketing, I bring a unique amalgamation of skills to the table.
-
-The marriage of structure and design in a logical way ✨thrills✨ me. I'm enthusiastic about projects that harness my dynamic skill set and diverse expertise.
+I'm Kate. I'm a creative person with a keen affinity for organization and I like code. 
 
 <table>
   <tr>
